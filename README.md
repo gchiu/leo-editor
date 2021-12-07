@@ -1,5 +1,5 @@
 Leo 5.9 final, http://leoeditor.com, is now available on
-[GitHub](https://github.com/leo-editor/leo-editor).
+[GitHub](https://github.com/leo-editor/leo-editor) but there are no artifacts to download so I forked this just to get the artifacts
 
 Leo is an IDE, outliner and PIM, as described [here](http://leoeditor.com/preface.html).
 
